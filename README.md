@@ -10,7 +10,7 @@ This is an agricultural investment app where an investor can monitor his/her inv
 - Investor can liquidate his investment.
 - Investor can monitor what his money is being used for on the farm while sitting in his room through the CCTV camera feature integrated into the app.
 
-![](https://github.com/esivuedaniel/daniel_portfolio/blob/main/Images/fme.PNG) 
+![](/Images/fme.PNG) 
 
 [Download app from playstore](https://play.google.com/store/apps/details?id=com.cloudware.farmkonnect)
 
@@ -22,6 +22,6 @@ This is a digital service provider app, the app render various services such as:
 - Internet subscription
 - Partnership plan.
 
-![](https://github.com/esivuedaniel/daniel_portfolio/blob/main/Images/fhi.PNG)
+![](/Images/fhi.PNG)
 
 [Download app from playstore](https://play.google.com/store/apps/details?id=com.cloudware.synexglobal)
