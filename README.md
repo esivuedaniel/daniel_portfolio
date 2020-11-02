@@ -10,6 +10,7 @@ This is an agricultural investment app where an investor can monitor his/her inv
 - Investor can liquidate his investment.
 - Investor can monitor what his money is being used for on the farm while sitting in his room through the CCTV camera feature integrated into the app.
 
+![](https://github.com/esivuedaniel/daniel_portfolio/blob/main/Images/Screenshot_20200831-143909.png) 
 [Download app from playstore](https://play.google.com/store/apps/details?id=com.cloudware.farmkonnect)
 
 # Project 2: Synex global mobile application
