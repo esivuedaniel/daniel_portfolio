@@ -1,5 +1,5 @@
 # daniel_portfolio
-Mobile development portfolio
+# Mobile development portfolio
 
 ## Project 1: Farmkonnect mobile application
 This is an agricultural investment app where an investor can monitor his/her investment and perform the following task from the app:
@@ -9,4 +9,6 @@ This is an agricultural investment app where an investor can monitor his/her inv
 - Investor can make a request to withdraw all the available money in his wallet.
 - Investor can liquidate his investment.
 - Investor can monitor what his money is being used for on the farm while sitting in his room through the CCTV camera feature integrated into the app.
+
+[Download app from playstore](https://play.google.com/store/apps/details?id=com.cloudware.farmkonnect)
 
