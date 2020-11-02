@@ -22,4 +22,6 @@ This is a digital service provider app, the app render various services such as:
 - Internet subscription
 - Partnership plan.
 
+![](https://github.com/esivuedaniel/daniel_portfolio/blob/main/Images/fhi.PNG)
+
 [Download app from playstore](https://play.google.com/store/apps/details?id=com.cloudware.synexglobal)
