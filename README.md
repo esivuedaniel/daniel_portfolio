@@ -1,7 +1,7 @@
 # daniel_portfolio
 # Mobile development portfolio
 
-## Project 1: Farmkonnect mobile application
+# Project 1: Farmkonnect mobile application
 This is an agricultural investment app where an investor can monitor his/her investment and perform the following task from the app:
 - Investor can invest in any of the packages provided by the company and also see the list of available packages that he has invested in.
 - Investor can credit his wallet through an online payment platform integrated into the app.
@@ -12,3 +12,12 @@ This is an agricultural investment app where an investor can monitor his/her inv
 
 [Download app from playstore](https://play.google.com/store/apps/details?id=com.cloudware.farmkonnect)
 
+# Project 2: Synex global mobile application
+This is a digital service provider app, the app render various services such as: 
+- Electricity bill payment
+- Tv subscription
+- Mobile airtime recharge
+- Internet subscription
+- Partnership plan.
+
+[Download app from playstore](https://play.google.com/store/apps/details?id=com.cloudware.synexglobal)
